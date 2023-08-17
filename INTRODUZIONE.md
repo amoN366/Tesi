@@ -32,10 +32,6 @@ Fin dalla sua origine, l'arte è sempre stata influenzata dagli avvenimenti stor
 allora so perfettamente che mi hai consigliato di tenermi su un singolo specifico argomento, ed é quello che ho intenzione di fare anche per non complicarmi la vita, "la persistenza dell'arte nel futuro" credo sará proprio il titolo finale, almeno credo, perché l'argomento di cui voglio parlare e che mi interessa tantissimo é questo. Grazie anche ad Harari sto prendendo anche un sacco di spunti e credo di poter fare un bel discorso completamente incentrato su come l'arte si evolverá in futuro, l'idea di immaginare con basi fondate come si trasformerá l'arte e la figura dell'artista mi fa impazzire, quindi se a te va bene io proseguirei cosí. tutto quello che hai letto in questo "capitolo" é solo un introduzione e non ho intenzione di spaziare cosí tanto tra gli argomenti, ma per una questione di ordine mentale mio avevo il bisogno viscerale di parlare di ste cose altimenti sento che mi mancano i pezzi mentre vado avanti. tutto il discorso sará incentrato sull'arte e al massimo sugli strumenti che ne influenzeranno il cambiamento tipo gli nft  uno dei primi che vengono in mente ora e di cui voglio parlare. Sinceramente l'ho riletto una sola volta dopo averlo scritto e scusami se trovi qualche errore ma mi scoccio troppo di correggerlo adesso come se fosse la versione finale anche perché nel frattempo mi é venuto il dubbio che mi sia messo a scriverlo troppo "poeticamente" come se fosse un romanzo e non una tesi anche se tutte le cose che ho scritto hanno delle fonti e non mi sono inventato nulla, fammi sapere cosa ne pensi di questa cosa e nel caso di come fare per correggermi. Grazie alph e ciao! tvb
 
 
-
-
-[[Fonti]]
-
 decessi covid
 https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model
 numero di morti per covid e influenza spagnola
