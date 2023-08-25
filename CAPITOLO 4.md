@@ -21,6 +21,7 @@ La struttura dell'esperimento prevede che, dopo l'inserimento di ogni singolo pi
 
 Per quanto r/place sia un fenomeno ed un esempio importante per il tema dell'arte collaborativa virtuale è impossibile eseguirne un analisi accurata e approfondita prima di aver contestualizzato il tutto all'interno di una tematica di enorme rilevanaza: il fenomeno dei meme.
 Nel contesto degli spazi virtuali, come in questo caso Reddit, i meme emergono come strumenti di comunicazione dal peso significativo. Prima di immergerci in un'analisi approfondita di "r/place", è pertanto essenziale esaminare il ruolo che i meme ricoprono in questi ambient, che, come elementi di comunicazione visiva e culturale non solo riflettono dinamiche sociali, ma agiscono anche da medium distintivo per l'espressione delle idee, delle emozioni e persino delle subculture all'interno di comunità virtuali.
+
 #### *CULTURE DIGITALI: I MEME*
 
 Un primo sguardo all'ambito della letteratura accademica ci fa capire subito che i **meme** costituiscono una questione molto complessa, suscitando reazioni ambivalenti.
