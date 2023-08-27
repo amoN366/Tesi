@@ -22,19 +22,16 @@
 		{"type":"text","text":"sviluppo dei social media come luogo di aggregazione","id":"5b1e40ff08222095","x":60,"y":1020,"width":240,"height":100,"color":"2"},
 		{"type":"text","text":"reddit canvas","id":"6ca2f2cc14d1e1ae","x":-80,"y":1340,"width":250,"height":60,"color":"2"},
 		{"type":"text","text":"installazioni artistiche digitali","id":"0281443f5e546442","x":-80,"y":1460,"width":250,"height":60,"color":"4"},
-		{"type":"text","text":"L'arte commerciale","id":"502fa82663ca13e4","x":-380,"y":1760,"width":250,"height":60,"color":"4"},
-		{"type":"text","text":"le teconologie per l'arte (cap 1)","id":"33bd32c07bf5e6d0","x":-100,"y":1760,"width":250,"height":60,"color":"4"},
-		{"type":"text","text":"futuro mercato dell'arte (cap 3)","id":"f197944574049af9","x":-380,"y":1840,"width":250,"height":60,"color":"1"},
-		{"type":"text","text":"il 2023 come gli anni 90","id":"8ed6df05b870d005","x":-380,"y":1940,"width":250,"height":60},
-		{"type":"text","text":"huntology","id":"a20910192771aa43","x":180,"y":1760,"width":250,"height":60,"color":"4"},
 		{"type":"text","text":"capitolo 5","id":"de60184aac420df4","x":-560,"y":1580,"width":156,"height":60,"color":"6"},
 		{"type":"text","text":"nuove forme d'arte","id":"6201f015c59c99ab","x":-280,"y":1580,"width":250,"height":60,"color":"2"},
 		{"type":"text","text":"evolversi della società","id":"49e562969f6a65fa","x":20,"y":-140,"width":250,"height":60},
 		{"type":"text","text":"un mondo senza banche","id":"195737e28675449d","x":88,"y":500,"width":250,"height":60},
 		{"type":"text","text":"il futuro mercato dell'arte","id":"4dbd2f67aa0170f3","x":88,"y":630,"width":250,"height":60,"color":"1"},
-		{"type":"text","text":"robotica","id":"cf505643eb11e7e8","x":-100,"y":2000,"width":250,"height":60},
-		{"type":"text","text":"intelligenza artificiale","id":"c5afc3384928d752","x":-100,"y":1840,"width":250,"height":60},
-		{"type":"text","text":"ritorno al passato","id":"eef3d336c55d8329","x":180,"y":1940,"width":250,"height":60}
+		{"type":"text","text":"ritorno al passato","id":"eef3d336c55d8329","x":-280,"y":1860,"width":250,"height":60},
+		{"type":"text","text":"hauntology","id":"a20910192771aa43","x":-280,"y":1760,"width":250,"height":60,"color":"4"},
+		{"id":"9625db1ca588da59","x":-280,"y":1660,"width":250,"height":64,"type":"text","text":"un futuro inesistente"},
+		{"id":"1f210274757f5e53","x":-280,"y":1960,"width":250,"height":60,"type":"text","text":"concluisione"},
+		{"id":"88b039b609e7a2c4","x":45,"y":1960,"width":250,"height":60,"type":"text","text":"Linteligenza artificiale"}
 	],
 	"edges":[
 		{"id":"b15d4f00e1839469","fromNode":"9a93034449cd7480","fromSide":"right","toNode":"f6e59055e10d2b3b","toSide":"left"},
@@ -59,15 +56,6 @@
 		{"id":"9df8342577309905","fromNode":"ad896f3a755d0e33","fromSide":"bottom","toNode":"b280bc84f3b4110b","toSide":"top"},
 		{"id":"5a69f6c9d780f7e6","fromNode":"33c797d17bb68e53","fromSide":"bottom","toNode":"baaaa026f621ef8e","toSide":"top"},
 		{"id":"85046b97811e2968","fromNode":"de60184aac420df4","fromSide":"right","toNode":"6201f015c59c99ab","toSide":"left"},
-		{"id":"0a7d7ef6247d1736","fromNode":"6201f015c59c99ab","fromSide":"bottom","toNode":"33bd32c07bf5e6d0","toSide":"top"},
-		{"id":"ae333df5f4c2f5b0","fromNode":"c5afc3384928d752","fromSide":"bottom","toNode":"cf505643eb11e7e8","toSide":"top"},
-		{"id":"58ad31c019979c7a","fromNode":"6201f015c59c99ab","fromSide":"bottom","toNode":"502fa82663ca13e4","toSide":"top"},
-		{"id":"5af5540158d62e9e","fromNode":"502fa82663ca13e4","fromSide":"bottom","toNode":"f197944574049af9","toSide":"top"},
-		{"id":"e60da53cc6711d42","fromNode":"f197944574049af9","fromSide":"bottom","toNode":"8ed6df05b870d005","toSide":"top"},
-		{"id":"79789952405e75e0","fromNode":"33bd32c07bf5e6d0","fromSide":"bottom","toNode":"c5afc3384928d752","toSide":"top"},
-		{"id":"2a66c6f4f49e71a6","fromNode":"8ed6df05b870d005","fromSide":"right","toNode":"eef3d336c55d8329","toSide":"left"},
-		{"id":"9b9a2d5dff61a6d3","fromNode":"c5afc3384928d752","fromSide":"right","toNode":"a20910192771aa43","toSide":"bottom"},
-		{"id":"970f4e4885810626","fromNode":"a20910192771aa43","fromSide":"bottom","toNode":"c5afc3384928d752","toSide":"right"},
 		{"id":"492dac9ad3289377","fromNode":"b280bc84f3b4110b","fromSide":"right","toNode":"66c12eba15aff9a1","toSide":"left"},
 		{"id":"d4e58004cd0bddd8","fromNode":"66c12eba15aff9a1","fromSide":"bottom","toNode":"195737e28675449d","toSide":"top"},
 		{"id":"6aea90792f060a9d","fromNode":"66c12eba15aff9a1","fromSide":"bottom","toNode":"1f61957cba07aa17","toSide":"top"},
@@ -86,7 +74,10 @@
 		{"id":"59fd8e4244cd8791","fromNode":"baaaa026f621ef8e","fromSide":"bottom","toNode":"319f7e699f30daf3","toSide":"top"},
 		{"id":"040a9294887198ec","fromNode":"0281443f5e546442","fromSide":"left","toNode":"6201f015c59c99ab","toSide":"top"},
 		{"id":"a90d706d50ce73f7","fromNode":"6201f015c59c99ab","fromSide":"right","toNode":"0281443f5e546442","toSide":"bottom"},
-		{"id":"2c79c0d43b33ac5f","fromNode":"6201f015c59c99ab","fromSide":"right","toNode":"a20910192771aa43","toSide":"top"},
-		{"id":"9d21d9d7b5601488","fromNode":"a20910192771aa43","fromSide":"bottom","toNode":"eef3d336c55d8329","toSide":"top"}
+		{"id":"9d21d9d7b5601488","fromNode":"a20910192771aa43","fromSide":"bottom","toNode":"eef3d336c55d8329","toSide":"top"},
+		{"id":"e84563a2d53b689e","fromNode":"6201f015c59c99ab","fromSide":"bottom","toNode":"a20910192771aa43","toSide":"top"},
+		{"id":"b0260fb5cb0a7871","fromNode":"eef3d336c55d8329","fromSide":"bottom","toNode":"1f210274757f5e53","toSide":"top"},
+		{"id":"390ec7272c3cba60","fromNode":"6201f015c59c99ab","fromSide":"right","toNode":"a20910192771aa43","toSide":"right"},
+		{"id":"affc6ecce71411f8","fromNode":"1f210274757f5e53","fromSide":"right","toNode":"88b039b609e7a2c4","toSide":"left"}
 	]
 }
