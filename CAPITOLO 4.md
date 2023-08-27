@@ -129,7 +129,7 @@ Un opera potrebbe essere riconosciuta come tale finchè rispetta determinati "ca
 
 Così come già detto nel finire del capitolo 2: questo tipo di arte, senza uno spettatore che validi la sua esistenza si ridurrebbe semplicemente ad una serie di bit ammassati su un server. 
 Sconvolgendo ancora di più quanto detto da Walter Benjamin potremo ipotizzare infine che in un ipotetico futuro la riproducibilità di un opera diventi effettivamente una misura per calcolarne il valore artistico e umano. 
-Proprio come accade con i meme, che vengono riprodotti e riproposti in enorme quantità solo se rispecchiano al meglio i tre attributi della riproducibilità così, in futuro, ad un opera digitale potrebbe essere dato un valore in base a quanto essa sia stata diffusa e riprodotta da altre persone. Quanto più un opera si adatta ai contesti umani in cui si diffonde, più essa sarà ritenuta importante.
+Proprio come accade con i meme, che vengono riprodotti e riproposti in enorme quantità solo se rispecchiano al meglio i tre attributi della riproducibilità così, in futuro, ad un opera digitale potrebbe essere attribuito un valore in base a quanto essa sia stata diffusa e riprodotta da altre persone. Quanto più un opera si adatta ai contesti umani in cui si diffonde, più essa sarà ritenuta importante.
 
 
 

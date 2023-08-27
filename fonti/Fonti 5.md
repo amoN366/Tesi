@@ -33,3 +33,9 @@ https://www.youtube.com/watch?v=gSvUqhZcbVg&t=54s
 
 ready player one reference
 https://www.wired.it/play/cinema/2018/03/30/citazioni-ready-player-one/
+
+estetica contro arte
+https://1000wordphilosophy.com/2014/02/13/aesthetics-vs-art/
+
+ai vs art
+https://www.linkiesta.it/2023/01/dall%C2%B7e-openai-intelligenza-artificiale-arte-mostre-cambiamenti/
