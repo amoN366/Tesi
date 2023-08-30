@@ -27,14 +27,12 @@ Nel 1993 Jurassic Park fondò le basi per un sistema di produzione cinematografi
 
 È necessario notare che l'essere umano crea un'oggetto con uno scopo al seguito della nascita di una necessità. Molto spesso avviene che quella prima invenzione tende ad evolversi fino a sovrastare il suo scopo principale e ad eliminare del tutto quella necessità, creandone comunque delle altre. Siamo pieni di esempi, senza uscire dagli argomenti trattati fin ora; la fotografia nasce al seguito dell'invenzione della camera oscura. La fotografia però elimina del tutto la necessità e lo scopo che aveva camera oscura, lo stesso avviene per il tavolo da montaggio dal quale nasce la moviola che elimina del tutto la necessita del tavolo. La camera oscura non era nata con l'intento di scattare fotografie ma era un semplice strumento al servizio della pittura, il tavolo da montaggio era un semplice strumento creato al seguito della necessità di poter visionare la pellicola dopo aver girato delle scene. Partendo dal tavolo di montaggio nasce la tecnica del montaggio cinematografico (o editing in inglese), dalla camera oscura nasce la fotografia. Queste due professioni derivano dell'invenzione di uno strumento che originariamente non era neanche stato pensato per quella finalità. 
 La tecnica e soprattutto la tecnologia sono permeate dalla spinta evoluzionistica simile se non uguale al modello Darwiniano della selezione naturale. Un oggetto genera tante copie di se, ognuna di queste copie però ha una piccola modifica intenta a migliorare quell'oggetto originale e spesso da quella prima idea ne deriva poi una totalmente diversa.
-
-Il motivo per cui il processo tecnologico nell'ultimo secolo ha subito un enorme spinta e tantissime scoperte scientifiche o invenzioni sono avvenute dal XX al XXI secolo è attribuibile sia a questo fenomeno sia all'attuale modello capitalista prevalente nel mercato globale. Le grandi aziende cercano di "distribuire" in modo costante le innovazioni tecnologiche lanciando sul mercato sempre lo stesso prodotto ma, ogni volta, con piccoli cambiamenti che a primo impatto sembrano significativi. Questi cambiamenti minimi generando la sensazione di necessità che spinge l'acquirente medio ad acquistare sempre di più motivando al contempo le aziende a ricercare sempre nuove tecnologie influendo notevolmente al processo di ricerca scientifica. 
-
+Il motivo per cui il processo tecnologico nell'ultimo secolo ha subito un enorme spinta e tantissime scoperte scientifiche o invenzioni sono avvenute dal XX al XXI secolo è attribuibile sia a questo fenomeno sia all'attuale modello capitalista prevalente nel mercato globale. Le grandi aziende cercano di "distribuire" in modo costante le innovazioni tecnologiche lanciando sul mercato sempre lo stesso prodotto ma, ogni volta, con piccoli cambiamenti che a primo impatto sembrano significativi. Questi cambiamenti minimi generando la sensazione di necessità che spinge l'acquirente medio ad acquistare sempre di più motivando al contempo le aziende a ricercare sempre nuove tecnologie influendo notevolmente sul processo di ricerca scientifica. 
 Lo stesso discorso Darwiniano si può applicare al mondo professionale artistico e non, nel momento in cui nasce una nuova tecnologia essa genera nella maggior parte dei casi una nuova figura professionale. Ad esempio dall'avvento dei social media abbiamo sentito parlare sempre più spesso di Content creator o social media manager. Allo stesso modo l'implementazione della CGI nell'industria cinematografica più di 20 anni fa ha generato ad oggi una enorme quantità di diverse figure professionali. Nelle grandi produzioni i team per gli effetti speciali contano a volte anche più di 50 persone ognuna con compiti ben distinti.
 Lo sviluppo nel settore del 3D ha prodotto ad oggi una serie di cambiamenti influenzando ad esempio il mondo videoludico. Le stesse tecniche usate nel film di Jurassic park (ovviamente migliorate e adattate alle tecnologie odierne) del 1993 vengono usate ad oggi per produrre una grafica il più realistica possibile
 che nel corso degli anni subirà sempre di più migliorie. E' probabile che nel futuro i videogiochi di fascia alta che puntano ad una grafica realistica risulteranno fin troppo realistici, raggiungendo il livello degli effetti speciali nei film. Questo eccessivo realismo su schermo riscuoterà sicuramente per un breve periodo di tempo molto successo ma in fine risulterà noioso per il giocatore. Anche al difuori dell'ambito videoludico l'eccessivo realismo su uno schermo bidimensionale sarà la norma e la necessità di immedesimarsi nel gioco e di sentirsi parte della storia (motivo per cui ci si spinge sempre di più verso una grafica o degli effetti speciali estremamente realistici) farà diventare obsoleto il modo in cui fruiamo dei nostri contenuti. Che sia un film, un videogioco o una qualunque operazione da svolgere ad un pc il monitor bidimensionale risulterà obsoleto e scomodo addirittura. Il modo in cui si usufruisce dei contenuti digitali cambierà.
 
-#### *UNA NUOVA REALTA' INVENTATA 100 ANNI FA'*
+#### *UNA NUOVA REALTA' INVENTATA 100 ANNI FA*
 
 Lo stereoscopio, nacque nel 1838 ad opera di Sir Charles Wheatstone. Questo  dispositivo permette di osservare immagini tridimensionali sfruttando il parallasse dei nostri occhi che ci permette di percepire la profondità. Il principio alla base dello stereoscopio è quello di presentare due immagini leggermente differenti agli occhi, simulando la visione binoculare umana. Quando l'osservatore guarda attraverso lo stereoscopio, il cervello fonde le due immagini in una sola, creando una sensazione di profondità e tridimensionalità. Questa innovativa invenzione suscitò grande interesse e divenne un popolare strumento per l'intrattenimento e l'educazione. 
 Ad oggi dopo un centinaio di anni, i visori per la realtà virtuale che sfruttano il medesimo principio dietro lo stereoscopio hanno preso piede sul mercato.
@@ -57,38 +55,3 @@ Prima di tutto negli anni più vicini a noi il fenomeno di musei che permettono 
 Questa immersione aumenta l'empatia e il coinvolgimento dell'utente con l'arte.
 I videogiochi sono stati i primi ad avere un benefit dalla realtà virtuale. Ad oggi è già  pieno di titoli che più rappresentano vere e proprie esperienze videoludiche. Il mondo dei videogiochi da questo punto di vista con o senza il fattore della realtà virtuale si avvicina sempre di più al mondo artistico e già in questo periodo molti titoli sono considerati da alcuni vere e proprie opere d'arte. In futuro gli artisti potranno adottare lo strumento del videogioco per creare esperienze artistiche che fondono il concetto di installazione artistica e performance, in cui il giocatore è spettatore e strumento artistico contemporaneamente.
 Anche l'industria cinematografica, di cui abbiamo discusso in precedenza, sta già sperimentando i vantaggi della realtà virtuale. Guardare un film immersi in un ambiente virtuale offre uno spettacolo completamente diverso rispetto al tradizionale schermo domestico o alla sala cinematografica. Grandi aziende come [Apple](https://www.youtube.com/watch?v=TX9qSaGXFyg&t=129s) e Disney stanno investendo nello sviluppo di visori e tecnologie per cambiare radicalmente il modo in cui l'arte cinematografica viene vissuta, immergendo sempre di più lo spettatore nella narrazione visiva. La realtà virtuale dunque potrà rivoluzionare l'arte e l'intrattenimento in modi sorprendenti, aprendo nuovi orizzonti creativi e coinvolgendo il pubblico in esperienze artistiche senza precedenti. La fusione tra tecnologia e arte promette di offrire una vasta gamma di opportunità creative per gli artisti e un coinvolgimento più profondo e stimolante per il pubblico.
-
-
-
-
-## Fonti
-
->[!collegamenti]
-[[Fonti 1]] [[INTRODUZIONE]]
-
-la dagherrotipia 
-https://www.fotografiamoderna.it/dagherrotipo/
-
-tecnologie per l'arte
-https://www.smithsonianmag.com/arts-culture/7-ways-technology-is-changing-how-art-is-made-180952472/
-
-influenza della fotografia
-https://www.thecollector.com/how-photography-transformed-art/
-
-La CGI di Jurassic Park
-https://www.smithsonianmag.com/innovation/how-jurassic-park-made-history-25-years-ago-propelling-computer-generated-animation-forward-180969285/
-
-Animazioni di Jurassic Park
-https://www.businessinsider.com/how-cgi-works-in-jurassic-park-2014-7?op=1&r=US&IR=T
-
-Importanza del Metaverso
-https://time.com/6116826/what-is-the-metaverse/
-
-Il primo iphone
-https://www.pcprofessionale.it/news/iphone-oggetto-piu-influente/
-
-arte in vr
-https://vrallart.com/
-
-Storia realtà virtuale 
-https://www.fi.edu/en/virtual-reality/history-of-virtual-reality

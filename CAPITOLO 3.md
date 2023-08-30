@@ -58,7 +58,7 @@ Uno dei primi che stravolse questo processo, togliendo il lavoro a molti archivi
 Nel 1989 fondò infatti una società dedicata a collezionare, o più propriamente potremo dire, detenere i diritti di varie foto. Ad oggi quella società è ancora in vita sotto il nome di Corbis Images. Raccontare l'intera storia dei mega archivi digitali, di come sono nati o di quanto hanno influenzato il mercato e il web odierno richiederebbe ben più di un capitolo. Basti sapere che questa storia è contorta e ricca di grandi società che acquisiscono altre grandi società. Nel 2012 Corbis Images fu acquisita da una multinazionale cinese controllata a sua volta da Getty Images (il più grande competitor di Corbis) ed ora gli archivi di Corbis sono accessibili solo da Getty Images.
 Il mercato di questi enormi archivi digitali possessori di un enorme numero di immagini nasce perchè il fenomeno della cultura visuale ha persistito negli anni arrivando fino all'era del web e plasmandone addirittura la forma in alcuni casi. Instagram oggi ma ancora prima Tumbrl o Facebook sono piattaforme che nascevano con l'intento di permettere ai propri utenti di pubblicare contenuti multimediali nella forma di microblog.
 Questa complessa struttura del web 2.0, ha introdotto la possibilità per ogni individuo di condividere liberamente foto, video o in generale qualsiasi tipo di contenuto multimediale sulle diverse piattaforme online, ha innescato nel tempo una serie di eventi significativi che hanno poi giocato un ruolo fondamentare per plasmare quello che è il web odierno. Il fenomeno del _digital entertainment_, con la comparsa della figura dell'_influencer_ e l'espansione dei _meme_ rappresentano un altro aspetto distintivo della cultura digitale odierna ma sono soltanto alcune delle diverse espressioni culturali che caratterizzano il panorama digitale in costante evoluzione.
-#### *I TERZI LUOGHI DI OLDENBURG
+#### *I TERZI LUOGHI DI OLDENBURG*
 
 Nel 2020, durante la pandemia, il figlio di [Cathy Hackl](https://www.cathyhackl.com/) organizzò una festa per il suo nono compleanno. Tutta via non chiese ai suoi amici di andare ad una festa a tema con decorazioni, magari qualche cappellino o una torta, chiese ai suoi amici di incontrarsi su Roblox e di festeggiare lì.
 Testualmente la Hackl in un'intervista spiega:
@@ -113,65 +113,3 @@ I software proprietari sono destinati a morire o ad essere rimpiazzati da una lo
 Per ricollegarci all'inizio del paragrafo: [Roblox](https://it.wikipedia.org/wiki/Roblox) rappresenta una piattaforma di giochi online con un sistema di sviluppo per creare videogiochi, nato nel 2004 e lanciato dalla **Roblox Corporation** nel 2006. Attraverso uno strumento di sviluppo chiamato **Roblox Studio**, è possibile creare giochi, noti alla community come "esperienze". Gli utenti di Roblox possono mettere in piedi diverse esperienze di gioco in 3D da condividere sulla piattaforma. Questo paradigma di creazione collettiva, in cui gli utenti collaborano per sviluppare e condividere contenuti, ha un legame significativo con l'approccio open source. In entrambi i casi, l'idea centrale è la condivisione e la collaborazione. Mentre nell'open source ci si concentra principalmente sul software e la condivisione del codice sorgente, Roblox amplia questa idea alla creazione di giochi e mondi virtuali. Entrambi i contesti sottolineano il potere delle community e dell'accesso condiviso alla creazione, promuovendo l'innovazione attraverso il coinvolgimento collettivo che in futuro potrà diventare strumento artistico per la creazione di immense opere d'arte collettive e virtuali.(vedi fine [[CAPITOLO 1]])
 
 
-
-## Fonti
-
->[!collegamenti]
-[[CAPITOLO 2]] [[Fonti 3]]
-
-il fenomeno dei meme
-https://academic.oup.com/jcmc/article/18/3/362/4067545?login=false
-
-social media luogo di incontro
-https://journals.sagepub.com/doi/10.1177/2056305116665857
-
-le immagini nel 21esimo secolo
-https://slate.com/human-interest/2014/12/images-on-the-internet-how-digital-photo-archives-have-changed-the-way-the-world-looks.html
-
-cultura visuale
-https://birdmenmagazine.com/2021/02/12/cultura-visuale-storia-origine-lessico/
-
-user generated content
-https://www.forbes.com/sites/columbiabusinessschool/2021/08/12/user-generated-content-the-future-of-digital-storytelling/?sh=772c78b13921
-
-getty images e corbis
-https://petapixel.com/2016/01/27/this-is-what-getty-images-founder-had-to-say-about-the-sale-of-corbis-images/
-
-350 miliardi di immagini
-https://www.youtube.com/watch?v=7p3RvIPuhw8
-
-riproducibilità delle immagini
-https://it.wikipedia.org/wiki/L%27opera_d%27arte_nell%27epoca_della_sua_riproducibilit%C3%A0_tecnica
-
-John Berger: il disegno (e la prosa) del mondo
-https://www.pulplibri.it/john-berger-il-disegno-e-la-prosa-del-mondo/
-
-gli influencer
-https://www.forbes.com/sites/theyec/2022/07/08/the-rise-of-the-influencer-predictions-for-ways-theyll-change-the-world/?sh=94522ed43a77
-
-walter benjamin
-https://it.wikipedia.org/wiki/Walter_Benjamin
-
-arte nel cinema
-https://libreriamo.it/intrattenimento/arte-e-cinema-i-10-piu-bei-film-ispirati-da-opere-darte/
-
-mona lisa
-https://www.britannica.com/story/why-is-the-mona-lisa-so-famous
-
-ROBLOX
-https://time.com/6116826/what-is-the-metaverse/
-
-riproducibilità tecnica gioconda
-https://filomasnou.blogspot.com/2011/11/benjamin-aura.html
-
-più grandi siti per community 
-https://aelieve.com/rankings/websites/category/online-communities/best-online-communities/
-
-pewdiepie vs tseries
-https://en.wikipedia.org/wiki/PewDiePie_vs_T-Series
-
-open source
-https://opensource.org/osd/
-
-roblox
-https://it.wikipedia.org/wiki/Roblox

@@ -62,50 +62,19 @@ Perchè ci serve parlare di tutti questi complicatissimi argomenti quando, ancor
 Ebbene la novità del Bitcoin portò dal 2009 ad oggi lo sviluppo di altre forme di criptovalute e il web3.0 sarà per sua stessa natura un'estensione delle criptovalute.
 Le previsioni su come potrebbe apparire il Web3.0 su larga scala sono solo supposizioni, ma alcuni progetti, soprattutto nel settore artistico sono diventati piuttosto grandi e rappresentano una grande potenzialità di quello che potrà essere. 
 
-#### *SCIMMIE ANNOIATE*
+#### *NUOVO MERCATO ARTISTICO*
 
 Il Bored Ape Yacht Club (BAYC), l'NBA Top Shot e il gigante dei criptogame Dapper Labs hanno creato comunità di successo basate sul fenomeno degli NFT. Coinbase (per l'acquisto, la vendita e l'archiviazione di criptovalute) e OpenSea (il più grande mercato digitale per oggetti da collezione crittografici e NFT) hanno creato modalità di approccio al web3.0 per persone con poca o nessuna conoscenza tecnica del settore.
 Mentre aziende come Microsoft, Overstock e PayPal hanno accettato le criptovalute già da anni, gli NFT, che solo recentemente sono esplosi di popolarità, sono il modo principale in cui i grandi marchi stanno ora sperimentando il Web3.0. In pratica, un NFT (non fungible token) è la combinazione di un certificato di autenticità e una tessera associativa di proprietà. Conferisce la "proprietà unica" dell'opera d'arte digitale (in genere, la proprietà è registrata sulla blockchain) e insieme alla proprietà di quell'opera spesso vengono associati diritti per il possessore o accesso a un gruppo ristretto. Gli NFT possono operare su scala ridotta rispetto alle monete perché creano i propri ecosistemi e non richiedono nient'altro che una comunità di persone che trovano valore nel progetto. Lo stesso meccanismo ad esempio lo vediamo con i collezionisti di carte da gioco o figurine.
 ![[what-is-opensea-main-scaled-e1645689544431.jpg]]
 >_Opensea il più grande marketplace per NFT_
 
-Gli NFT per adesso sono una tecnologia che permette di acquistare e vendere immagini. Osservando più da vicino questo fenomeno abbiamo già esempi di quello che potrà succedere in futuro. BYAC (bored ape yatch clup) cosiste in una collezione di NFT limitata in cui il token stesso funge anche da iscrizione a un club privato virtuale e garantisce l'accesso a vantaggi riservati ai membri. Ecco che ricollegandoci al capitolo precedente, la tecnologia della realtà virtuale ritorna in campo. Delle esperienze artistiche completamente virtuali potranno essere vendute sotto forma di NFT. Oggi si vendono immagini bidimensionali, domani si venderanno token che permettono all'utente di accedere ad intere esperienze artistiche, il fenomeno dell'arte performativa è destinato probabilmente a ritornare in auge evolvendosi e permettendo all'utente di mettersi al centro dell'opera e di esserne il fruitore-artefice. 
-
-
 Gli NFT rappresentano attualmente una tecnologia che consente di acquistare e vendere immagini digitali, ma se analizziamo più da vicino questo fenomeno, possiamo intravederne il potenziale futuro. Un esempio interessante di come gli NFT potrebbero evolversi è rappresentato da BYAC (bored ape yacht club), una collezione di NFT limitata, in cui ogni token funge anche da iscrizione a un esclusivo club virtuale. I membri di questo club possono accedere a vantaggi riservati solo ai membri, aprendo la strada a nuove forme di interazione e coinvolgimento tra artisti e collezionisti.
 Se ci ricolleghiamo a quanto detto nel capitolo precedente sull'importanza della realtà virtuale possiamo ora immaginare esperienze artistiche completamente virtuali che potrebbero essere vendute come NFT. Se oggi il mercato si concentra principalmente sulla vendita di immagini bidimensionali, in un futuro non troppo lontano, potremmo assistere alla vendita di token che consentono agli utenti di accedere ad intere performance artistiche interamente ambientate in mondi virtuali. Questo fenomeno potrebbe portare alla rinascita, o meglio, ad un'evoluzione dell'arte performativa, con gli spettatori che si trasformano in partecipanti e artefici dell'opera stessa.
-Il cinema come forma narrativa sarà fin troppo piatta, l'interazione che lo spettatore cerca sarà sempre maggiore, dunque possibile che gli NTF da acquistare consentirebbero di partecipare ad un nuovo tipo di performance teatrale virtuale, dove potremmo interagire con gli attori o persino influenzare lo sviluppo della trama, un pò come avviene ora nei videogiochi.
-Dal punto di vista della produzione, questo tipo di arte favorirebbe anche lo sviluppo dell'arte collettiva. Il fenomeno dell'arte collettiva già esiste, ma la creazione di grandi ambienti virtuali ad esempio, già ai giorni nostri necessita di una grande mole di lavoro, sempre più spesso quindi si inizieranno a vedere interi team di artisti che lavorano insieme per la creazione di un'unica opera.
+Il cinema come forma narrativa sarà poco esaustiva, l'interazione che lo spettatore cerca sarà sempre maggiore, dunque è possibile che gli NTF da acquistare consentirebbero di partecipare ad un nuovo tipo di performance teatrale virtuale, dove potremmo interagire con gli attori o persino influenzare lo sviluppo della trama, un pò come avviene ora nei videogiochi.
+Dal punto di vista della produzione, questo tipo di arte favorirebbe anche lo sviluppo di un diverso tipo di arte collettiva. Il fenomeno dell'arte collettiva già esiste, ma la creazione di grandi ambienti virtuali ad esempio, già ai giorni nostri necessita di una grande mole di lavoro, sempre più spesso quindi si inizieranno a vedere interi team di artisti che lavorano insieme per la creazione di un'unica opera.
 In questo prossimo futuro dell'arte digitale, quindi, lo spettatore diventerà (come ho già detto in precedenza) parte integrante e motivo dell'esistenza di quell'opera ma l'arte così facendo potrebbe entrare in un paradosso di esistenza. Come spiegato dal paradosso del gatto di Schrödinger - questa nuova forma d'arte potrebbe contemporaneamente esistere e non esistere. Senza uno spettatore che validi l'esistenza di quell'opera, osservandola, interagendo con essa e dandole un motivo di esistenza questo tipo di arte si ridurrebbe semplicemente una serie di bit ammassati in un server, mancando di tangibilità quell'opera esisterà solo nella conferma collettiva della sua esistenza. 
 Mi rendo conto che trattare questi argomenti in questo modo fa sorgere molte incognite, sia del tipo ideologico che tecnico. Rimane comunque estremamente possibile che gli effettivi cambiamenti del futuro siano nettamente diversi da quelli descritti in questi due capitoli. Il futuro artistico di cui ho parlato è il futuro del passato cioè il futuro che ci si prospetta ora, che possiamo immaginare ora, in base a quanto avvenuto negli scorsi decenni. E' possibile, però, che una volta giunti a tali cambiamenti tutto il percorso attraversato per arrivare a quel punto faccia deviare del tutto gli esiti del futuro in un altro imprevedibile modo. Per capire quali siano i possibili risvolti del futuro per ora non possiamo far altro che analizzare ciò che succede intorno a noi oggi.
-
-
-
-
-## Fonti
->[!collegamenti]
-[[CAPITOLO 1]] [[Fonti 2]]
-
-web3
-https://hbr.org/2022/05/what-is-web3
-
-metaverse importanza
-https://time.com/6116826/what-is-the-metaverse/
-
-arte in vr
-https://vrallart.com/
-
-arpanet
-https://www.techtarget.com/searchnetworking/definition/ARPANET
-
-isola di yap
-https://www.ancient-origins.net/ancient-places-americas/megalithic-money-yap-001518
-
-paper bitcoin
-https://bitcoin.org/files/bitcoin-paper/bitcoin_it.pdf
-
-mercato nft
-https://www.pixartprinting.it/blog/nft-criptoarte/
 
 
 

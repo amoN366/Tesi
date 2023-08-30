@@ -1,4 +1,4 @@
-#### **Hauntology**
+#### *HAUNTOLOGY*
 
 Nel quinto ed ultimo capitolo di questa tesi incentrata sul possibile futuro dell'arte è necessario focalizzarsi su un argomento molto importante ma di cui non abbiamo trattato fin ora.
 Il futuro. 
@@ -90,30 +90,5 @@ Per dirla ancora in modo più semplice l'intelligenza artificiale non inventa di
 L'arte generata artificialmente rispecchia a pieno due dei parametri del panorama artistico di cui abbiamo parlato in questo capitolo: è un arte puramente estetica e nata da un riciclo artistico.
 Il modo giusto di pensare all'intelligenza artificiale, dunque, non è come una macchina che sfida le capacità cognitive umane, ma come un alleato che espande i nostri confini cognitivi. Sotto questo punto di vista effettivamente l'intelligenza artificiale può risultare come uno di quei primi significativi cambiamenti allo strumento di produzione artistica dovuti alla tecnologia, in cui , tuttavia, il "perché artistico" rimane completamente inalterato.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 >"_To be in the 21 fisrt century is to have 20 century culture in high definition screens"
 >- Mark Fisher_
-
-
-
-
-
-
-
-
-
-
->[!collegamenti]
->
